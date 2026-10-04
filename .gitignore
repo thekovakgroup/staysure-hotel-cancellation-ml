@@ -1,0 +1,26 @@
+# Python environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# Datasets
+data/raw/*.csv
+data/processed/
+
+# Saved models
+models/*.joblib
+models/*.pkl
+
+# Environment variables and logs
+.env
+*.log
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
