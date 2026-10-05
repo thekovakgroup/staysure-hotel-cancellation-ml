@@ -1,0 +1,6 @@
+feature,timing,initial_decision,reason
+reservation_status,after outcome,drop,directly reveals final outcome
+reservation_status_date,after outcome,drop,final status date is unavailable at booking confirmation
+assigned_room_type,confirm with business,review,may be assigned after the original reservation
+booking_changes,accumulates over time,review,future changes may not exist at confirmation
+days_in_waiting_list,confirm with business,review,availability depends on workflow timing

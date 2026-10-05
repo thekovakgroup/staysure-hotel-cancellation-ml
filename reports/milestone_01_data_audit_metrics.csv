@@ -1,0 +1,6 @@
+metric,value
+rows,119390.0
+columns,32.0
+exact_duplicate_rows,31994.0
+cancellation_rate_percent,37.04
+columns_with_missing_values,4.0
