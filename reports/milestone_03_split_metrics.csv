@@ -1,0 +1,4 @@
+split,rows,columns_before_preprocessing,columns_after_preprocessing,start_date,end_date,cancellation_rate
+train,82937,27,522,2015-07-01,2017-02-10,0.362950191108914
+validation,17758,27,522,2017-02-11,2017-05-21,0.39469534857529
+test,17869,27,522,2017-05-22,2017-08-31,0.39537746936034474

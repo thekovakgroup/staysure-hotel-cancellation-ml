@@ -1,0 +1,11 @@
+decision,choice
+split_strategy,chronological
+training_end_date,2017-02-10
+validation_end_date,2017-05-21
+agent_treatment,categorical
+numeric_missing_values,median imputation
+numeric_scaling,StandardScaler
+categorical_missing_values,most-frequent imputation
+categorical_encoding,one-hot encoding
+unknown_categories,ignore during transform
+pipeline_fit_scope,training data only
