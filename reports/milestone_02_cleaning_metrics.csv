@@ -1,0 +1,10 @@
+metric,value
+raw_rows,119390.0
+clean_rows,118564.0
+rows_removed,826.0
+raw_columns,32.0
+clean_columns,28.0
+raw_missing_cells,129425.0
+clean_missing_cells,0.0
+raw_cancellation_rate_percent,37.04
+clean_cancellation_rate_percent,37.26

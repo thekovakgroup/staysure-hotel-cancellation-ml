@@ -1,0 +1,6 @@
+area,decision,reason
+exact duplicates,keep,No booking ID; measure target-distribution impact before removal.
+company missingness,drop,Company has very high missingness.
+invalid/out-of-scope rows,remove,"Defines valid hotel stays by ADR, guest count, and night count."
+confirmed leakage,drop,"reservation_status, reservation_status_date"
+timing-sensitive features,drop,"assigned_room_type, booking_changes, days_in_waiting_list"
