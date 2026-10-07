@@ -1,0 +1,2 @@
+selected_candidate_id,n_estimators,max_depth,min_samples_leaf,max_features,primary_metric,f1_guardrail_tolerance,selected_threshold,false_positive_cost,false_negative_cost,validation_precision,validation_recall,validation_f1,validation_roc_auc,default_threshold_f1_gap,roc_auc_generalization_gap
+T01,80,15,10,0.5,roc_auc,0.002,0.44999999999999996,1,2,0.6926168331610977,0.8606077899843059,0.7675276752767528,0.8999860379132443,0.08989087627454162,0.0659908928485905
