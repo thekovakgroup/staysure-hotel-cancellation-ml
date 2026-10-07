@@ -1,0 +1,2 @@
+model_type,selected_threshold,validation_rows,explanation_sample_rows,validation_precision,validation_recall,validation_f1,validation_roc_auc,top_five_source_features,lowest_recall_cohort_feature,lowest_recall_cohort_value,lowest_recall_cohort_rows,lowest_recall_cohort_recall,test_set_status
+RandomForestClassifier,0.44999999999999996,17758,1000,0.6926168331610977,0.8606077899843059,0.7675276752767528,0.8999860379132443,"deposit_type, country, market_segment, total_of_special_requests, lead_time",market_segment,Direct,1800,0.24609375,sealed
