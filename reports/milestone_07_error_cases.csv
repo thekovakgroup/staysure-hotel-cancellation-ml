@@ -1,0 +1,201 @@
+arrival_date,is_canceled,predicted_class,predicted_probability,error_type,hotel,lead_time,market_segment,deposit_type,customer_type,adr,total_of_special_requests
+2017-04-22,0,1,0.911917489253036,false_positive,Resort Hotel,267,Online TA,No Deposit,Transient,54.0,0
+2017-05-03,0,1,0.9111293057440936,false_positive,Resort Hotel,248,Online TA,No Deposit,Transient,54.0,1
+2017-05-03,0,1,0.9111293057440936,false_positive,Resort Hotel,248,Online TA,No Deposit,Transient,54.0,1
+2017-05-03,0,1,0.9111293057440936,false_positive,Resort Hotel,248,Online TA,No Deposit,Transient,54.0,1
+2017-05-03,0,1,0.9111293057440936,false_positive,Resort Hotel,248,Online TA,No Deposit,Transient,54.0,1
+2017-05-21,0,1,0.9017134035088784,false_positive,Resort Hotel,238,Online TA,No Deposit,Transient,81.0,1
+2017-03-11,0,1,0.8961952474828054,false_positive,Resort Hotel,339,Groups,No Deposit,Transient-Party,64.0,0
+2017-03-11,0,1,0.8961952474828054,false_positive,Resort Hotel,339,Groups,No Deposit,Transient-Party,64.0,0
+2017-03-11,0,1,0.8961952474828054,false_positive,Resort Hotel,339,Groups,No Deposit,Transient-Party,64.0,0
+2017-03-11,0,1,0.8961952474828054,false_positive,Resort Hotel,339,Groups,No Deposit,Transient-Party,64.0,0
+2017-03-11,0,1,0.8961952474828054,false_positive,Resort Hotel,339,Groups,No Deposit,Transient-Party,64.0,0
+2017-03-11,0,1,0.8961952474828054,false_positive,Resort Hotel,339,Groups,No Deposit,Transient-Party,64.0,0
+2017-04-13,0,1,0.8933428758988793,false_positive,City Hotel,64,Online TA,No Deposit,Transient,132.0,0
+2017-02-25,0,1,0.8931267587524074,false_positive,Resort Hotel,97,Online TA,No Deposit,Transient,33.6,0
+2017-05-14,0,1,0.8891447031651714,false_positive,City Hotel,70,Online TA,No Deposit,Transient,192.0,0
+2017-05-19,0,1,0.8887566103581742,false_positive,City Hotel,101,Online TA,No Deposit,Transient,189.0,0
+2017-05-20,0,1,0.8881438965046129,false_positive,City Hotel,71,Online TA,No Deposit,Transient,162.0,0
+2017-05-16,0,1,0.8879535658503173,false_positive,City Hotel,103,Online TA,No Deposit,Transient,189.0,0
+2017-04-12,0,1,0.8879097374920567,false_positive,City Hotel,59,Online TA,No Deposit,Transient,126.0,0
+2017-05-17,0,1,0.8873006150961874,false_positive,City Hotel,92,Online TA,No Deposit,Transient,164.7,0
+2017-04-12,0,1,0.886509152428442,false_positive,City Hotel,41,Online TA,No Deposit,Transient,187.0,0
+2017-04-24,0,1,0.8863103252473186,false_positive,City Hotel,28,Online TA,No Deposit,Transient,224.0,0
+2017-04-17,0,1,0.8859647696401363,false_positive,City Hotel,30,Online TA,No Deposit,Transient,224.0,0
+2017-04-09,0,1,0.8852676909089972,false_positive,Resort Hotel,142,Online TA,No Deposit,Transient,84.49,2
+2017-04-14,0,1,0.8842972726737368,false_positive,City Hotel,34,Online TA,No Deposit,Transient,150.0,0
+2017-05-19,0,1,0.8841423787786227,false_positive,City Hotel,28,Online TA,No Deposit,Transient,190.0,0
+2017-04-17,0,1,0.8839245743442812,false_positive,City Hotel,35,Online TA,No Deposit,Transient,129.0,0
+2017-04-15,0,1,0.8838292032724262,false_positive,City Hotel,62,Online TA,No Deposit,Transient,177.0,0
+2017-03-30,0,1,0.8837339193389416,false_positive,Resort Hotel,74,Online TA,No Deposit,Transient,113.29,1
+2017-05-04,0,1,0.8836748183869666,false_positive,City Hotel,65,Online TA,No Deposit,Transient,240.3,0
+2017-05-18,0,1,0.8831041171244596,false_positive,City Hotel,68,Online TA,No Deposit,Transient,162.0,0
+2017-05-15,0,1,0.8831041171244596,false_positive,City Hotel,65,Online TA,No Deposit,Transient,162.0,0
+2017-05-17,0,1,0.8828691790937038,false_positive,City Hotel,66,Online TA,No Deposit,Transient,162.0,0
+2017-04-14,0,1,0.882830647194934,false_positive,Resort Hotel,32,Direct,No Deposit,Transient,204.33,1
+2017-05-06,0,1,0.8825586599825741,false_positive,City Hotel,32,Online TA,No Deposit,Transient,267.86,0
+2017-04-14,0,1,0.8820427229109891,false_positive,City Hotel,103,Online TA,No Deposit,Transient,181.5,0
+2017-05-20,0,1,0.8812781791330722,false_positive,City Hotel,62,Online TA,No Deposit,Transient,144.0,0
+2017-05-17,0,1,0.8810403781580394,false_positive,City Hotel,77,Online TA,No Deposit,Transient,148.2,0
+2017-05-11,0,1,0.8810286892656674,false_positive,City Hotel,66,Online TA,No Deposit,Transient,171.0,0
+2017-05-01,0,1,0.8809965417462363,false_positive,City Hotel,30,Online TA,No Deposit,Transient,179.0,0
+2017-04-23,0,1,0.8809144690809327,false_positive,City Hotel,43,Online TA,No Deposit,Transient,145.0,0
+2017-05-19,0,1,0.8809075781009824,false_positive,City Hotel,71,Online TA,No Deposit,Transient,144.0,0
+2017-04-02,0,1,0.8801662107283184,false_positive,City Hotel,20,Online TA,No Deposit,Transient,230.0,0
+2017-04-24,0,1,0.8799328178152009,false_positive,City Hotel,74,Online TA,No Deposit,Transient,171.0,0
+2017-04-10,0,1,0.879622042616108,false_positive,City Hotel,76,Online TA,No Deposit,Transient,164.25,0
+2017-05-03,0,1,0.8794556342277442,false_positive,City Hotel,21,Online TA,No Deposit,Transient,146.78,0
+2017-05-15,0,1,0.8791223492706237,false_positive,City Hotel,19,Online TA,No Deposit,Transient,170.0,0
+2017-04-15,0,1,0.878845048087714,false_positive,City Hotel,65,Online TA,No Deposit,Transient,130.5,0
+2017-04-18,0,1,0.8788223245477675,false_positive,City Hotel,65,Online TA,No Deposit,Transient,135.0,0
+2017-04-20,0,1,0.8788223245477675,false_positive,City Hotel,68,Online TA,No Deposit,Transient,135.0,0
+2017-04-09,0,1,0.8787723260527613,false_positive,City Hotel,80,Online TA,No Deposit,Transient,163.8,0
+2017-04-07,0,1,0.8786103656001423,false_positive,City Hotel,73,Online TA,No Deposit,Transient,220.0,0
+2017-04-07,0,1,0.8786103656001423,false_positive,City Hotel,73,Online TA,No Deposit,Transient,220.0,0
+2017-03-26,0,1,0.8783391493610491,false_positive,City Hotel,28,Online TA,No Deposit,Transient,163.0,0
+2017-05-11,0,1,0.8781898890418354,false_positive,City Hotel,84,Online TA,No Deposit,Transient,183.0,0
+2017-04-10,0,1,0.8781869321386715,false_positive,City Hotel,60,Online TA,No Deposit,Transient,160.2,0
+2017-04-07,0,1,0.87735331218022,false_positive,City Hotel,31,Online TA,No Deposit,Transient,159.0,0
+2017-04-20,0,1,0.8772841275618539,false_positive,City Hotel,95,Online TA,No Deposit,Transient,136.8,0
+2017-04-05,0,1,0.8769678818023333,false_positive,City Hotel,43,Online TA,No Deposit,Transient,183.67,0
+2017-05-02,0,1,0.8769638376014657,false_positive,City Hotel,41,Online TA,No Deposit,Transient,259.0,0
+2017-05-05,0,1,0.8768071563153976,false_positive,City Hotel,108,Online TA,No Deposit,Transient,171.0,0
+2017-05-17,0,1,0.8766157097902267,false_positive,City Hotel,89,Online TA,No Deposit,Transient,135.0,0
+2017-05-17,0,1,0.8763775921240662,false_positive,City Hotel,68,Online TA,No Deposit,Transient,144.0,0
+2017-05-17,0,1,0.8763775921240662,false_positive,City Hotel,68,Online TA,No Deposit,Transient,144.0,0
+2017-05-16,0,1,0.8762751567681386,false_positive,City Hotel,64,Online TA,No Deposit,Transient,135.0,0
+2017-05-05,0,1,0.8761873800022526,false_positive,City Hotel,85,Online TA,No Deposit,Transient,177.0,0
+2017-05-05,0,1,0.8760866751719449,false_positive,City Hotel,108,Online TA,No Deposit,Transient,126.0,0
+2017-05-13,0,1,0.8760068640523999,false_positive,City Hotel,101,Online TA,No Deposit,Transient,137.57,0
+2017-05-17,0,1,0.8758540458109808,false_positive,City Hotel,90,Online TA,No Deposit,Transient,120.6,0
+2017-05-02,0,1,0.8757438843728647,false_positive,City Hotel,108,Online TA,No Deposit,Transient,126.0,0
+2017-05-20,0,1,0.8755754228008819,false_positive,City Hotel,79,Online TA,No Deposit,Transient,270.0,0
+2017-04-04,0,1,0.875529579380764,false_positive,City Hotel,34,Online TA,No Deposit,Transient,178.0,0
+2017-05-19,0,1,0.8752048450299353,false_positive,Resort Hotel,130,Online TA,No Deposit,Transient,86.25,2
+2017-03-05,0,1,0.8749889267435134,false_positive,Resort Hotel,195,Groups,No Deposit,Transient-Party,62.28,0
+2017-05-01,0,1,0.8749888901556181,false_positive,City Hotel,60,Online TA,No Deposit,Transient,144.0,0
+2017-04-23,0,1,0.8749190376545716,false_positive,City Hotel,43,Online TA,No Deposit,Transient,145.0,0
+2017-05-20,0,1,0.8743880663640571,false_positive,City Hotel,112,Online TA,No Deposit,Transient,126.0,0
+2017-05-20,0,1,0.8743880663640571,false_positive,City Hotel,112,Online TA,No Deposit,Transient,126.0,0
+2017-04-26,0,1,0.8741838902743451,false_positive,City Hotel,79,Online TA,No Deposit,Transient,171.0,0
+2017-04-01,0,1,0.8739911577675263,false_positive,City Hotel,30,Online TA,No Deposit,Transient,150.0,0
+2017-04-19,0,1,0.8739320812217297,false_positive,City Hotel,94,Online TA,No Deposit,Transient,136.8,0
+2017-04-30,0,1,0.8738770383425362,false_positive,City Hotel,104,Online TA,No Deposit,Transient,123.0,0
+2017-03-28,0,1,0.8737377546913375,false_positive,City Hotel,35,Online TA,No Deposit,Transient,208.0,0
+2017-04-29,0,1,0.8734479538790613,false_positive,City Hotel,26,Online TA,No Deposit,Transient,133.0,0
+2017-04-03,0,1,0.8734028233940714,false_positive,City Hotel,79,Online TA,No Deposit,Transient,200.0,0
+2017-05-15,0,1,0.8730744613253906,false_positive,City Hotel,119,Online TA,No Deposit,Transient,147.6,0
+2017-04-20,0,1,0.8726438935036096,false_positive,City Hotel,101,Online TA,No Deposit,Transient,139.5,0
+2017-05-01,0,1,0.8725074517159694,false_positive,City Hotel,81,Online TA,No Deposit,Transient,230.0,0
+2017-05-06,0,1,0.8722167462332727,false_positive,City Hotel,51,Online TA,No Deposit,Transient,134.1,0
+2017-05-06,0,1,0.8722167462332727,false_positive,City Hotel,51,Online TA,No Deposit,Transient,134.1,0
+2017-05-18,0,1,0.8721459790062942,false_positive,City Hotel,105,Online TA,No Deposit,Transient,144.0,0
+2017-05-10,0,1,0.8721348511101168,false_positive,City Hotel,85,Online TA,No Deposit,Transient,151.2,0
+2017-05-13,0,1,0.8720917036963348,false_positive,City Hotel,128,Online TA,No Deposit,Transient,144.0,0
+2017-05-13,0,1,0.8715654750530938,false_positive,City Hotel,74,Online TA,No Deposit,Transient,198.0,0
+2017-05-10,0,1,0.8707910397724513,false_positive,Resort Hotel,93,Online TA,No Deposit,Transient,88.2,0
+2017-04-26,0,1,0.8704976372142973,false_positive,City Hotel,96,Online TA,No Deposit,Transient,118.8,0
+2017-05-06,0,1,0.870373424336649,false_positive,City Hotel,52,Online TA,No Deposit,Transient,189.0,0
+2017-04-23,0,1,0.8702889883638468,false_positive,City Hotel,103,Online TA,No Deposit,Transient,224.0,0
+2017-05-18,0,1,0.8702507966840267,false_positive,City Hotel,123,Online TA,No Deposit,Transient,144.0,0
+2017-05-18,0,1,0.8698992564645328,false_positive,City Hotel,118,Online TA,No Deposit,Transient,135.0,0
+2017-02-19,1,0,0.016031805462751476,false_negative,Resort Hotel,0,Direct,No Deposit,Transient-Party,80.0,0
+2017-05-08,1,0,0.018276949321213855,false_negative,City Hotel,0,Direct,No Deposit,Transient,139.5,0
+2017-03-15,1,0,0.02524171050008328,false_negative,City Hotel,6,Direct,No Deposit,Transient,100.6,0
+2017-03-15,1,0,0.02524171050008328,false_negative,City Hotel,6,Direct,No Deposit,Transient,100.6,0
+2017-03-03,1,0,0.034196151927153244,false_negative,Resort Hotel,8,Groups,No Deposit,Transient-Party,47.0,0
+2017-02-17,1,0,0.03825379404856471,false_negative,Resort Hotel,0,Corporate,No Deposit,Transient,35.0,0
+2017-02-20,1,0,0.039704423302942646,false_negative,Resort Hotel,6,Direct,No Deposit,Transient,68.0,1
+2017-04-18,1,0,0.04362180547987714,false_negative,City Hotel,0,Complementary,No Deposit,Transient,0.0,2
+2017-02-19,1,0,0.048470934934029784,false_negative,Resort Hotel,69,Online TA,No Deposit,Transient-Party,42.0,2
+2017-05-05,1,0,0.04990434620506821,false_negative,Resort Hotel,1,Direct,No Deposit,Transient,85.0,2
+2017-04-30,1,0,0.050148302148971736,false_negative,Resort Hotel,87,Offline TA/TO,No Deposit,Transient,48.0,0
+2017-04-30,1,0,0.050148302148971736,false_negative,Resort Hotel,87,Offline TA/TO,No Deposit,Transient,48.0,0
+2017-04-30,1,0,0.050148302148971736,false_negative,Resort Hotel,87,Offline TA/TO,No Deposit,Transient,48.0,0
+2017-04-30,1,0,0.050148302148971736,false_negative,Resort Hotel,87,Offline TA/TO,No Deposit,Transient,48.0,0
+2017-04-30,1,0,0.050148302148971736,false_negative,Resort Hotel,87,Offline TA/TO,No Deposit,Transient,48.0,0
+2017-02-14,1,0,0.055371705658238624,false_negative,Resort Hotel,31,Online TA,No Deposit,Transient-Party,48.0,2
+2017-03-08,1,0,0.05574329007045048,false_negative,Resort Hotel,2,Corporate,No Deposit,Transient,35.0,2
+2017-03-23,1,0,0.06954625553694833,false_negative,City Hotel,0,Online TA,No Deposit,Transient,108.0,0
+2017-03-14,1,0,0.07346459207721577,false_negative,Resort Hotel,140,Online TA,No Deposit,Transient-Party,42.0,1
+2017-02-20,1,0,0.07481126439661696,false_negative,Resort Hotel,0,Corporate,No Deposit,Transient,35.0,0
+2017-05-09,1,0,0.07560175216428762,false_negative,Resort Hotel,7,Online TA,No Deposit,Transient,85.0,1
+2017-02-27,1,0,0.0757513148240997,false_negative,Resort Hotel,0,Corporate,No Deposit,Transient,35.0,0
+2017-03-14,1,0,0.07751197558006248,false_negative,Resort Hotel,0,Online TA,No Deposit,Transient,53.2,1
+2017-05-09,1,0,0.0779092083046385,false_negative,Resort Hotel,7,Online TA,No Deposit,Transient,85.0,1
+2017-03-07,1,0,0.07820649939714994,false_negative,City Hotel,1,Direct,No Deposit,Transient,98.0,0
+2017-02-19,1,0,0.07872346233365314,false_negative,Resort Hotel,69,Online TA,No Deposit,Transient-Party,37.0,1
+2017-04-03,1,0,0.08311798813544731,false_negative,City Hotel,0,Direct,No Deposit,Transient,175.0,0
+2017-05-04,1,0,0.08324272840377532,false_negative,Resort Hotel,0,Online TA,No Deposit,Transient,137.0,0
+2017-03-04,1,0,0.0840728815665518,false_negative,Resort Hotel,11,Direct,No Deposit,Transient,75.0,0
+2017-02-25,1,0,0.08489073799455893,false_negative,Resort Hotel,12,Direct,No Deposit,Transient,62.8,1
+2017-05-01,1,0,0.08520286858738843,false_negative,City Hotel,12,Offline TA/TO,No Deposit,Transient,6.0,0
+2017-04-26,1,0,0.0863907765451766,false_negative,City Hotel,5,Online TA,No Deposit,Transient,171.0,1
+2017-02-28,1,0,0.0876035755152936,false_negative,Resort Hotel,0,Online TA,No Deposit,Transient,44.8,0
+2017-03-01,1,0,0.08888842515808011,false_negative,City Hotel,1,Online TA,No Deposit,Transient,74.8,1
+2017-03-01,1,0,0.08888842515808011,false_negative,City Hotel,1,Online TA,No Deposit,Transient,74.8,1
+2017-04-28,1,0,0.09208149118648866,false_negative,City Hotel,0,Online TA,No Deposit,Transient,130.5,1
+2017-02-21,1,0,0.09561679209653412,false_negative,City Hotel,0,Corporate,No Deposit,Transient,80.0,0
+2017-02-27,1,0,0.1005922482208218,false_negative,Resort Hotel,2,Online TA,No Deposit,Transient,92.0,1
+2017-04-25,1,0,0.10064509988634918,false_negative,Resort Hotel,5,Online TA,No Deposit,Transient,136.0,1
+2017-04-29,1,0,0.10287182965222419,false_negative,City Hotel,3,Online TA,No Deposit,Transient,190.0,1
+2017-04-27,1,0,0.10482385003928589,false_negative,City Hotel,1,Corporate,No Deposit,Transient,95.0,0
+2017-03-10,1,0,0.10528690120480269,false_negative,City Hotel,11,Direct,No Deposit,Transient,123.0,0
+2017-03-20,1,0,0.1068071218407742,false_negative,City Hotel,1,Online TA,No Deposit,Transient,138.15,0
+2017-04-04,1,0,0.10794714533805413,false_negative,Resort Hotel,240,Online TA,No Deposit,Transient-Party,57.43,1
+2017-02-18,1,0,0.10906047082081619,false_negative,Resort Hotel,1,Corporate,No Deposit,Transient-Party,35.0,1
+2017-04-29,1,0,0.10934375483222074,false_negative,Resort Hotel,6,Online TA,No Deposit,Transient,146.0,2
+2017-03-20,1,0,0.11013993176492236,false_negative,Resort Hotel,0,Direct,No Deposit,Transient,35.0,0
+2017-03-20,1,0,0.11013993176492236,false_negative,Resort Hotel,0,Direct,No Deposit,Transient,35.0,0
+2017-03-20,1,0,0.11013993176492236,false_negative,Resort Hotel,0,Direct,No Deposit,Transient,35.0,0
+2017-03-12,1,0,0.11037549420018992,false_negative,Resort Hotel,2,Online TA,No Deposit,Transient,65.0,2
+2017-03-07,1,0,0.11698811550726522,false_negative,Resort Hotel,220,Online TA,No Deposit,Transient-Party,37.8,1
+2017-04-10,1,0,0.12103458329973618,false_negative,City Hotel,77,Direct,No Deposit,Transient,101.25,1
+2017-05-08,1,0,0.12618857784161902,false_negative,City Hotel,96,Direct,No Deposit,Transient,196.6,2
+2017-05-12,1,0,0.12622613193139529,false_negative,Resort Hotel,263,Online TA,No Deposit,Transient-Party,54.0,2
+2017-03-16,1,0,0.1275762994458086,false_negative,Resort Hotel,10,Direct,No Deposit,Transient,142.0,0
+2017-02-22,1,0,0.12813237725609233,false_negative,City Hotel,9,Direct,No Deposit,Transient,195.5,0
+2017-04-29,1,0,0.13005997499764266,false_negative,City Hotel,8,Online TA,No Deposit,Transient,180.0,1
+2017-03-08,1,0,0.13094243761526828,false_negative,City Hotel,3,Online TA,No Deposit,Transient,149.33,1
+2017-04-27,1,0,0.13111197396297625,false_negative,City Hotel,165,Direct,No Deposit,Transient,151.5,2
+2017-04-07,1,0,0.13402194521588134,false_negative,City Hotel,2,Online TA,No Deposit,Transient,171.0,1
+2017-05-06,1,0,0.13625337820409592,false_negative,City Hotel,25,Corporate,No Deposit,Transient,125.0,0
+2017-05-04,1,0,0.13791343818835233,false_negative,City Hotel,7,Online TA,No Deposit,Transient,180.0,2
+2017-03-22,1,0,0.13862959460837496,false_negative,City Hotel,1,Online TA,No Deposit,Transient,89.0,0
+2017-03-16,1,0,0.14230237155936798,false_negative,City Hotel,2,Online TA,No Deposit,Transient,108.0,0
+2017-02-11,1,0,0.14495064903458796,false_negative,Resort Hotel,1,Online TA,No Deposit,Transient-Party,48.0,0
+2017-02-11,1,0,0.14495064903458796,false_negative,Resort Hotel,1,Online TA,No Deposit,Transient-Party,48.0,0
+2017-02-17,1,0,0.14516670226305622,false_negative,Resort Hotel,0,Direct,No Deposit,Transient,78.0,1
+2017-03-28,1,0,0.1454456393351183,false_negative,Resort Hotel,0,Direct,No Deposit,Transient,65.0,0
+2017-04-03,1,0,0.1457779406034418,false_negative,City Hotel,97,Direct,No Deposit,Transient,99.0,1
+2017-03-06,1,0,0.1461790382347113,false_negative,Resort Hotel,4,Offline TA/TO,No Deposit,Transient,30.0,0
+2017-05-05,1,0,0.14637846716406597,false_negative,Resort Hotel,5,Online TA,No Deposit,Transient,112.0,1
+2017-04-06,1,0,0.1477299267264141,false_negative,Resort Hotel,10,Direct,No Deposit,Transient,162.0,0
+2017-02-25,1,0,0.14833319824973623,false_negative,Resort Hotel,37,Direct,No Deposit,Transient,77.0,1
+2017-03-07,1,0,0.14851354943058115,false_negative,Resort Hotel,1,Corporate,No Deposit,Transient,35.0,0
+2017-05-06,1,0,0.14860262048278997,false_negative,City Hotel,163,Direct,No Deposit,Transient,99.0,1
+2017-03-31,1,0,0.15015285957413518,false_negative,Resort Hotel,0,Corporate,No Deposit,Transient,65.0,0
+2017-02-13,1,0,0.15047045237563123,false_negative,Resort Hotel,9,Online TA,No Deposit,Transient,60.0,1
+2017-04-03,1,0,0.1507029050415641,false_negative,City Hotel,97,Direct,No Deposit,Transient,96.25,2
+2017-03-09,1,0,0.15290085050063099,false_negative,Resort Hotel,0,Direct,No Deposit,Transient,70.0,0
+2017-02-18,1,0,0.15310289312275915,false_negative,Resort Hotel,34,Direct,No Deposit,Transient,48.6,1
+2017-03-30,1,0,0.1556108395819763,false_negative,City Hotel,2,Online TA,No Deposit,Transient,108.0,0
+2017-04-08,1,0,0.1566263560767135,false_negative,City Hotel,8,Online TA,No Deposit,Transient,115.0,1
+2017-02-24,1,0,0.1569933210305633,false_negative,City Hotel,1,Direct,No Deposit,Transient,88.0,2
+2017-02-24,1,0,0.1569933210305633,false_negative,City Hotel,1,Direct,No Deposit,Transient,88.0,2
+2017-04-05,1,0,0.15730860192662277,false_negative,City Hotel,8,Online TA,No Deposit,Transient,114.0,2
+2017-02-13,1,0,0.15976093115426723,false_negative,City Hotel,12,Direct,No Deposit,Transient,113.0,0
+2017-02-25,1,0,0.16009300825090433,false_negative,Resort Hotel,45,Direct,No Deposit,Transient,69.0,2
+2017-05-17,1,0,0.1627362745118353,false_negative,City Hotel,27,Corporate,No Deposit,Transient,110.0,1
+2017-05-09,1,0,0.16495712988682718,false_negative,City Hotel,76,Direct,No Deposit,Transient,126.0,1
+2017-05-04,1,0,0.16519549396369543,false_negative,Resort Hotel,121,Direct,No Deposit,Transient,120.0,1
+2017-04-08,1,0,0.16726956626302164,false_negative,City Hotel,59,Direct,No Deposit,Transient,128.0,3
+2017-05-07,1,0,0.16950794761421537,false_negative,Resort Hotel,123,Direct,No Deposit,Transient,90.0,1
+2017-05-01,1,0,0.17242832660557622,false_negative,City Hotel,5,Offline TA/TO,No Deposit,Transient,190.0,1
+2017-04-21,1,0,0.1747656816769162,false_negative,Resort Hotel,4,Online TA,No Deposit,Transient,72.0,4
+2017-02-18,1,0,0.17613827311090163,false_negative,Resort Hotel,4,Corporate,No Deposit,Transient,40.0,0
+2017-05-08,1,0,0.1782246725831804,false_negative,City Hotel,3,Online TA,No Deposit,Transient,198.0,1
+2017-03-20,1,0,0.18047620676193105,false_negative,Resort Hotel,6,Online TA,No Deposit,Transient,75.0,3
+2017-05-03,1,0,0.18211426953844795,false_negative,City Hotel,9,Direct,No Deposit,Transient,150.0,0
+2017-04-07,1,0,0.182483953237563,false_negative,Resort Hotel,0,Online TA,No Deposit,Transient,115.0,0
+2017-02-15,1,0,0.18420726199209905,false_negative,Resort Hotel,2,Corporate,No Deposit,Transient,35.0,0
