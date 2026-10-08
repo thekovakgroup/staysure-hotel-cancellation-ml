@@ -1,0 +1,17 @@
+field,value
+model_name,StaySure hotel cancellation frozen random forest
+model_type,RandomForestClassifier
+operating_threshold,0.44999999999999996
+test_period,2017-05-22 to 2017-08-31
+test_rows,17869
+test_roc_auc,0.8422908752046698
+test_f1,0.7075349639578584
+test_precision,0.6264455596770674
+test_recall,0.8127388535031848
+test_brier_score,0.1645957462365295
+intended_use,Human-reviewed operational prioritization and planning
+prohibited_use,"Automatic denial, penalties, or contractual changes"
+known_limitations,"Historical bias, proxy risk, cohort error variation, drift, and non-causal explanations"
+monitoring,"Track inputs, calibration, overall and cohort errors, and business outcomes"
+retraining_rule,Any redevelopment requires a new untouched holdout period
+final_test_status,opened once for final evaluation; not used for tuning
