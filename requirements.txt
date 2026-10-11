@@ -7,3 +7,6 @@ jupyter
 ipykernel
 joblib
 shap==0.49.1
+fastapi[standard-no-fastapi-cloud-cli]==0.143.0
+pytest==9.1.1
+httpx2==2.13.1
