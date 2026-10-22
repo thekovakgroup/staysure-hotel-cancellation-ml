@@ -1,0 +1,111 @@
+name: StaySure CI
+
+on:
+  push:
+    branches:
+      - main
+      - "milestone-*"
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: staysure-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  python-validation:
+    name: Python validation
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.11.9"
+          cache: pip
+          cache-dependency-path: requirements-test.txt
+
+      - name: Install test dependencies
+        run: python -m pip install -r requirements-test.txt
+
+      - name: Verify model artifacts
+        run: python scripts/verify_artifacts.py
+
+      - name: Check dependency consistency
+        run: python -m pip check
+
+      - name: Run API tests
+        run: python -m pytest -q
+
+  container-validation:
+    name: Container build and smoke test
+    needs: python-validation
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v4
+
+      - name: Build container image
+        uses: docker/build-push-action@v7
+        with:
+          context: .
+          file: ./Dockerfile
+          load: true
+          push: false
+          tags: staysure-api:ci
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Start container
+        run: >
+          docker run
+          --detach
+          --name staysure-api
+          --publish 8000:8000
+          staysure-api:ci
+
+      - name: Wait for healthy API
+        shell: bash
+        run: |
+          for attempt in {1..30}; do
+            if response=$(curl --fail --silent http://127.0.0.1:8000/health); then
+              echo "$response"
+              exit 0
+            fi
+
+            sleep 2
+          done
+
+          echo "The API did not become ready in time."
+          docker logs staysure-api
+          exit 1
+
+      - name: Display Docker health state
+        run: docker inspect --format='{{json .State.Health}}' staysure-api
+
+      - name: Clean up container
+        if: always()
+        shell: bash
+        run: |
+          if docker inspect staysure-api >/dev/null 2>&1; then
+            docker logs staysure-api
+            docker rm --force staysure-api
+          fi
