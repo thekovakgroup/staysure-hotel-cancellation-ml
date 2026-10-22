@@ -24,3 +24,6 @@ models/*.pkl
 .vscode/
 .DS_Store
 Thumbs.db
+# Final deployment artifacts
+!models/preprocessing_pipeline.joblib
+!models/random_forest_tuned_bundle.joblib

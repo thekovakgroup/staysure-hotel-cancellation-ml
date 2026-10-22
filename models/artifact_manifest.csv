@@ -1,0 +1,3 @@
+"artifact","sha256","size_bytes"
+"preprocessing_pipeline.joblib","94177fef5d6bb3dd373e12a7a552eb7a003018b39bc987cf5aa0e9a4b37270cb","10093"
+"random_forest_tuned_bundle.joblib","22dae5425fafcd35e01c677a0333f13569387f3f077cf7feb4c5ede5ff72095e","11271122"
